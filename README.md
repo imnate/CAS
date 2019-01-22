@@ -15,6 +15,6 @@
 
 ## 系統流程設計
 <p align="center">
-<img src ="img/系統設計.jpg" width = 500>
+<img src ="img/系統設計.jpg" width = 800>
 </p>
 
