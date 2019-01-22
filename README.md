@@ -1,5 +1,5 @@
 # <p align="center">程式迴圈結構與語意之分析比較與視覺化機制</p>
-<div align="center">
+<div class="row" align="center">
         <p align="left">
         次系統研發主要研發「程式迴圈結構與語意之分析比較與視覺化機制」，<br>
         主要是使用ANTLR所剖析出的BNF規則剖析樹所剖析的迴圈程式碼語意資料，<br>
