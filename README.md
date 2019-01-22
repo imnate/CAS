@@ -10,7 +10,7 @@
 
 ## CodeAssessmentSystem UI介面
 <p align="center">
-<img src ="img/ui.jpg" width = 500>
+<img src ="img/ui.jpg" width = 700>
 </p>
 
 ## 系統流程設計
