@@ -8,6 +8,12 @@
                                藉由比較了解不同策略的程式碼之間的差異，
                                最後將結果以視覺化方式呈現給學生及教師。
 
+### 語言
+         JAVA
+         
+### 套件/(frameworks)
+         ANTLR
+
 ## CodeAssessmentSystem UI介面
 <p align="center">
 <img src ="img/ui.jpg" width = 700>
